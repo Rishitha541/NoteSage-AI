@@ -31,4 +31,33 @@ It helps students by generating **summaries, mind maps, and Q&A** from uploaded 
   - Real-time Q&A interface
 - Built with **React + TypeScript** for a clean, responsive UI.
 
-### 5. Data Flow
+---
+
+## 🔄 Continuous Data Flow
+
+
+- **Step 1:** User uploads notes → text is extracted and cleaned.  
+- **Step 2:** AI models generate summaries, mind maps, and answers.  
+- **Step 3:** Backend manages requests, stores metadata, and connects AI services.  
+- **Step 4:** Frontend displays results in a user-friendly interface.  
+- **Step 5:** User continues interacting (asking questions, requesting new summaries).  
+
+This cycle repeats continuously, making study materials dynamic and interactive.
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** HTML, CSS, JavaScript, TypeScript, SQL  
+- **Frameworks/Tools:** React, FastAPI  
+- **AI Tools:** ChatGPT, NLP models, embeddings  
+- **Other Tools:** VS Code, GitHub, Replit  
+
+---
+
+## 🎯 Why It’s Useful
+- Saves time by condensing large notes into digestible chunks.  
+- Helps visualize relationships between concepts.  
+- Provides instant clarification of doubts.  
+- Makes self-study more interactive and personalized.  
+
+---
